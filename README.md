@@ -1,1 +1,1 @@
-# this is created in local sand pushed to remote
+# this is created in local and pushed to remote
